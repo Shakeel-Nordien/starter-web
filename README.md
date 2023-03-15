@@ -8,6 +8,8 @@ Sample website with plenty of files for demos
 
 ## Purpose
 
+This is to get a better understanding of Git
+
 ## Deployment
 
 ## How To Contribute
