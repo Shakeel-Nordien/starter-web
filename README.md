@@ -13,3 +13,7 @@ This is to get a better understanding of Git
 ## Deployment
 
 ## How To Contribute
+
+### Copyright
+
+2014 Git.Training.
